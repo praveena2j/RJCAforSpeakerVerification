@@ -49,11 +49,11 @@ Please download the following.
 [Return to Table of Content](#Table_of_Content)
   + The downloaded images are not properly aligned. So the images are aligned using [Insightface](https://github.com/TadasBaltrusaitis/OpenFace/releases). However, the per-frame success rate is lower compared to the database-provided version.
 
-### Step Three: Training <a name="TE"></a>
+## Step Three: Training <a name="TE"></a>
 [Return to Table of Content](#Table_of_Content)
   + sbatch run_train.sh 
 
-### Step Four: Inference <a name="GR"></a>
+## Step Four: Inference <a name="GR"></a>
 [Return to Table of Content](#Table_of_Content)
   + sbatch run_eval.sh
 
