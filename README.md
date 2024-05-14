@@ -18,14 +18,21 @@ Create an environment using the `environment.yml` file
 
 `conda env create -f environment.yml`
 
-### Models
-The pre-trained models of audio and visual backbones are obtained [here](https://github.com/kuhnkeF/ABAW2020TNT) and [here](https://github.com/kuhnkeF/ABAW2020TNT)
+### Models and Text Files
+The pre-trained models of audio and visual backbones are obtained [here](https://drive.google.com/drive/u/0/folders/1bXyexxgspeOi6gFiP177pM-KhwSeVsTq) 
 
-The fusion models trained using our fusion approach can be found [here](https://drive.google.com/file/d/1BJywljtR-L4eIGx03h8GTSQcaIKMjIjT/view?usp=sharing)
+The fusion models trained using our fusion approach can be found [here](https://drive.google.com/drive/u/0/home)
+
+The text files can be found [here](https://drive.google.com/drive/u/0/folders/1NJicFlj9CeNzxvtrOHRIHy6HnoTszro7)
+```
+train_list :  Train list
+val_trials :  Validation trials list
+val_list : Validation list
+test_trials : VoX1-O trials list
+test_list : Vox 1-O list
 
 ```
-fusion_model.model:  Fusion model trained using our approach on the Affwild2 dataset
-```
+
 
 # Table of contents <a name="Table_of_Content"></a>
 
