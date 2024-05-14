@@ -11,6 +11,5 @@ If you find this work useful in your research, please consider citing our work :
 }
 ```
 
-## Acknowledgements
-
-The code for preprocessing and the coding framework for the proposed model is based on (https://github.com/sucv/ABAW3).
+### 👍 Acknowledgments
+Our code is based on [AVCleanse](https://github.com/TaoRuijie/AVCleanse)
