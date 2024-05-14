@@ -21,7 +21,7 @@ Create an environment using the `environment.yml` file
 ### Models and Text Files
 The pre-trained models of audio and visual backbones are obtained [here](https://drive.google.com/drive/u/0/folders/1bXyexxgspeOi6gFiP177pM-KhwSeVsTq) 
 
-The fusion models trained using our fusion approach can be found [here](https://drive.google.com/drive/u/0/my-drive?q=after:2024-05-13%20parent:0AF1R2CTIrvG8Uk9PVA)
+The fusion models trained using our fusion approach can be found [here](https://drive.google.com/file/d/1lB0YeZSIYKpCs6EZG0hYaaPyl8dtCAAO/view?usp=drive_link)
 
 The text files can be found [here](https://drive.google.com/drive/u/0/folders/1NJicFlj9CeNzxvtrOHRIHy6HnoTszro7)
 ```
