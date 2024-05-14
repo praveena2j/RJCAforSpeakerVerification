@@ -54,7 +54,7 @@ Please download the following.
 
 ### Step Two: Preprocess the visual modality <a name="PV"></a>
 [Return to Table of Content](#Table_of_Content)
-  + The downloaded images are not properly aligned. So the images are aligned using [Insightface](https://github.com/TadasBaltrusaitis/OpenFace/releases). 
+  + The downloaded images are not properly aligned. So the images are aligned using [Insightface](https://github.com/TadasBaltrusaitis/OpenFace/releases) The preprocessing scripts are provided in preprocessing folder 
 
 ## Training <a name="TE"></a>
 [Return to Table of Content](#Table_of_Content)
