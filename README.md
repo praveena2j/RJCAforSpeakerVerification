@@ -47,7 +47,7 @@ Please download the following.
 
 ### Step Two: Preprocess the visual modality <a name="PV"></a>
 [Return to Table of Content](#Table_of_Content)
-  + The downloaded images are not properly aligned. So the images are aligned using [Insightface](https://github.com/TadasBaltrusaitis/OpenFace/releases). However, the per-frame success rate is lower compared to the database-provided version.
+  + The downloaded images are not properly aligned. So the images are aligned using [Insightface](https://github.com/TadasBaltrusaitis/OpenFace/releases). 
 
 ## Training <a name="TE"></a>
 [Return to Table of Content](#Table_of_Content)
