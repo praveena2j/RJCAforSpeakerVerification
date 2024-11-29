@@ -19,9 +19,9 @@ Create an environment using the `environment.yml` file
 `conda env create -f environment.yml`
 
 ### Models and Text Files
-The pre-trained models of audio and visual backbones are obtained [here](https://drive.google.com/drive/u/0/folders/1bXyexxgspeOi6gFiP177pM-KhwSeVsTq) 
+The pre-trained models of audio and visual backbones are obtained [here](https://drive.google.com/drive/folders/1bXyexxgspeOi6gFiP177pM-KhwSeVsTq?usp=sharing) 
 
-The fusion models trained using our fusion approach can be found [here](https://drive.google.com/file/d/1lB0YeZSIYKpCs6EZG0hYaaPyl8dtCAAO/view?usp=drive_link)
+The fusion models trained using our fusion approach can be found [here](https://drive.google.com/file/d/1Xs0a9vImzsi8He1CKv3sAe1Q8z6_0WFU/view?usp=sharing)
 
 The text files can be found [here](https://drive.google.com/drive/u/0/folders/1NJicFlj9CeNzxvtrOHRIHy6HnoTszro7)
 ```
